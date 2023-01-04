@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm RAIDXN</h1>
-<h3 align="center">I'm a Front-end developer. I know how to code in HTML and CSS, and I'm currently learning Python.</h3>
+<h3 align="center">A Front-end developer learning Python and passionate about Minecraft duping and glitches.</h3>
 
-- 🔭 I’m currently working on **Making my own Discord bot**
+- 🔭 I’m currently working on **A Discord bot of my own**
 
 - 🌱 I’m currently learning **Python**
+
+- 👯 I’m looking to collaborate on **Collapsing Minecraft servers**
+
+- 📫 Contact Me: **RAIDXN#8549**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
