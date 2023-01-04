@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAIDXN</h1>
-<h3 align="center">I'm a front-end developer. I know how to code in HTML and CSS, and I'm currently learning Python.</h3>
+<h3 align="center">I'm a Front-end developer. I know how to code in HTML and CSS, and I'm currently learning Python.</h3>
 
 - 🔭 I’m currently working on **Making my own Discord bot**
 
