@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Collapsing Minecraft servers**
-
 - 📫 Contact Me: **RAIDXN#8549**
 
 <h3 align="left">Connect with me:</h3>
